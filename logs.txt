@@ -1,0 +1,122 @@
+2020-04-14 14:54:44,874 -- INFO : Mail Sent
+2020-04-14 15:11:05,399 -- INFO : Mail Sent
+2020-04-14 15:12:33,489 -- INFO : Mail Sent
+2020-04-14 15:14:40,514 -- INFO : Mail Sent
+2020-04-14 15:22:11,053 -- INFO : No file were needed to be sorted in the download folder.
+2020-04-14 15:22:12,307 -- INFO : Mail Sent
+2020-04-14 15:31:19,220 -- INFO : No file were needed to be sorted in the download folder.
+
+2020-04-14 15:31:20,565 -- INFO : Mail Sent
+2020-04-14 15:33:58,271 -- INFO : The download folder has been cleared.
+3 files were successfully sorted.
+2020-04-14 15:34:52,904 -- INFO : No file were needed to be sorted in the download folder.
+2020-04-14 15:34:54,195 -- INFO : Mail Sent
+2020-04-14 15:35:07,693 -- INFO : The download folder has been cleared.
+3 files were successfully sorted.
+2020-04-14 15:35:09,153 -- INFO : Mail Sent
+2020-04-14 15:37:29,252 -- INFO : The download folder has been cleared.
+3 files were successfully sorted.
+2020-04-14 15:37:30,636 -- INFO : Mail Sent
+2020-04-14 15:56:06,408 -- INFO : The download folder has been cleared.
+2 files were successfully sorted.
+- 20200118_203105.jpg
+- 20200120_194815.jpg
+
+ The following files were not sorted :
+- 20200120_193357.jpg
+- desktop.ini
+- DS4Windows-version-1.4.52-dualshock4-pc.zip
+- launch.ica
+2020-04-14 15:56:07,776 -- INFO : Mail Sent
+2020-04-14 15:57:33,979 -- INFO : The download folder has been cleared.
+1 file was successfully sorted.
+- 20200120_193357.jpg
+
+ The following files were not sorted :
+- desktop.ini
+- DS4Windows-version-1.4.52-dualshock4-pc.zip
+- launch.ica
+2020-04-14 15:57:35,684 -- INFO : Mail Sent
+2020-04-14 15:57:58,644 -- INFO : Mail Sent
+2020-04-14 15:58:58,385 -- INFO : The download folder has been cleared.
+4 files were successfully sorted.
+- 20200120_193357.jpg
+- 20200320_101031 (1).jpg
+- 20200320_101931(0).jpg
+- sketch_bb_TPxHGJ25r5.png
+
+ The following files were not sorted :
+- 20200120_193357.jpg
+- 20200320_101031 (1).jpg
+- 20200320_101931(0).jpg
+- desktop.ini
+- DS4Windows-version-1.4.52-dualshock4-pc.zip
+- launch.ica
+- sketch_bb_TPxHGJ25r5.png
+2020-04-14 15:58:59,665 -- INFO : Mail Sent
+2020-04-14 16:02:09,825 -- INFO : Mail Sent
+2020-04-14 16:09:30,532 -- INFO : No file were needed to be sorted in the download folder.
+
+ The following files were not sorted :
+- desktop.ini
+- DS4Windows-version-1.4.52-dualshock4-pc.zip
+- launch.ica
+2020-04-14 16:09:32,412 -- INFO : Mail Sent
+2020-04-14 16:10:50,934 -- INFO : Mail Sent
+2020-04-14 16:26:02,901 -- INFO : No file were needed to be sorted in the download folder.
+
+ The following files were not sorted :
+- desktop.ini
+- DS4Windows-version-1.4.52-dualshock4-pc.zip
+- launch.ica
+2020-04-14 16:26:03,194 -- ERROR : Error while sending e-mail.
+Traceback (most recent call last):
+  File "c:\Users\Vince et Marlou\Documents\Dev\Script.py", line 73, in sendEmail
+    server.login(mail, password)
+  File "C:\Program Files (x86)\Python38-32\lib\smtplib.py", line 723, in login
+    (code, resp) = self.auth(
+  File "C:\Program Files (x86)\Python38-32\lib\smtplib.py", line 642, in auth
+    authobject(challenge).encode('ascii'), eol='')
+AttributeError: 'NoneType' object has no attribute 'encode'
+2020-04-14 16:32:37,871 -- INFO : No file were needed to be sorted in the download folder.
+
+ The following files were not sorted :
+- desktop.ini
+- DS4Windows-version-1.4.52-dualshock4-pc.zip
+- launch.ica
+2020-04-14 16:32:40,505 -- INFO : Mail Sent
+2020-04-14 20:07:37,993 -- INFO : No file were needed to be sorted in the download folder.
+
+ The following files were not sorted :
+- desktop.ini
+- DS4Windows-version-1.4.52-dualshock4-pc.zip
+2020-04-14 20:07:40,007 -- INFO : Mail Sent
+2020-04-14 20:09:10,660 -- INFO : No file were needed to be sorted in the download folder.
+
+ The following files were not sorted :
+- desktop.ini
+- DS4Windows-version-1.4.52-dualshock4-pc.zip
+2020-04-14 20:09:11,971 -- INFO : Mail Sent
+2020-04-14 20:09:39,578 -- INFO : No file were needed to be sorted in the download folder.
+
+ The following files were not sorted :
+- desktop.ini
+- DS4Windows-version-1.4.52-dualshock4-pc.zip
+2020-04-14 20:09:40,915 -- INFO : Mail Sent
+2020-04-14 21:20:48,902 -- INFO : No file were needed to be sorted in the download folder.
+
+ The following files were not sorted :
+- DS4Windows-version-1.4.52-dualshock4-pc.zip
+2020-04-14 21:20:51,048 -- INFO : Mail Sent
+2020-04-14 21:22:13,349 -- INFO : Mail Sent
+2020-04-14 21:24:40,361 -- INFO : Mail Sent
+2020-04-14 21:25:17,513 -- INFO : Mail Sent
+2020-04-14 21:28:36,022 -- INFO : Mail Sent
+2020-04-14 21:30:29,132 -- INFO : Mail Sent
+2020-04-14 21:30:48,458 -- INFO : Mail Sent
+2020-04-14 21:32:18,062 -- INFO : Mail Sent
+2020-04-14 21:33:31,527 -- INFO : Mail Sent
+2020-04-14 21:34:48,271 -- INFO : Mail Sent
+2020-04-14 21:40:45,686 -- INFO : Mail Sent
+2020-04-15 10:52:50,369 -- INFO : Mail Sent
+2020-04-15 10:54:29,193 -- INFO : Mail Sent
