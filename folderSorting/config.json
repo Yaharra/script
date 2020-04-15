@@ -1,0 +1,17 @@
+{
+    "Extension":
+    {
+            "0": ["C:\\Users\\Vince et Marlou\\Downloads\\Images", [".jpg", ".png", ".jpeg", ".gif"]],
+            "1": ["C:\\Users\\Vince et Marlou\\Downloads\\Videos", [".mp4", ".avi"]],
+            "2": ["C:\\Users\\Vince et Marlou\\Downloads\\Executables", [".exe"]],
+            "3": ["C:\\Users\\Vince et Marlou\\Downloads\\pdf", [".pdf"]],
+            "4": ["C:\\Users\\Vince et Marlou\\Downloads\\Office", [".xls", ".xlsx", ".doc", ".docx", ".ppt", ".pptx"]]
+    },
+
+    "Folder": 
+    {
+        "folder": "C:\\Users\\Vince et Marlou\\Downloads"
+    }
+
+
+}
