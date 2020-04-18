@@ -1,0 +1,7 @@
+{
+    "Games": {
+        "endpoint": "https://api.rawg.io/api/games"                
+    }
+
+}
+
